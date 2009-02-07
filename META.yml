@@ -1,0 +1,17 @@
+--- 
+abstract: commandline interface to Software::License
+author: 
+  - Florian Ragwitz <rafl@debian.org>
+generated_by: Dist::Zilla::Plugin::MetaYaml version 1.003
+license: perl
+name: App-Software-License
+requires: 
+  File::HomeDir: 0
+  File::Spec::Functions: 0
+  Moose: 0
+  MooseX::Getopt: 0
+  MooseX::SimpleConfig: 0
+  MooseX::Types::Moose: 0
+  Software::License: 0
+  namespace::clean: 0
+version: 0.01
