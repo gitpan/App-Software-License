@@ -1,2 +1,8 @@
-0.01  Sat, 07 Feb 2009 03:27:15 +0100
-  * Initial release.
+Revision history for App-Software-License
+
+0.02      2014-01-25 18:17:18Z
+          - removed use of deprecated Class::MOP::load_class (RT#92459,
+            rwstauner)
+
+0.01      2009-02-07 02:27:15Z
+          - Initial release.
